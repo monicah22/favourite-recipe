@@ -12,3 +12,5 @@ ingredients
 9.1 garlic 
 10.1 bunch coriander
 11.1 ginger
+
+steps of cooking
