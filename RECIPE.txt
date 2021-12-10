@@ -14,3 +14,4 @@ ingredients
 11.1 ginger
 
 steps of cooking
+1. Wash the rice and boil for 30min
